@@ -13,12 +13,14 @@ public class test1 {
 
 
         System.out.println("You are logged in!");
+        System.out.println("You are logged in!");
     }
 
 
     @Test
     public void logout() {
         System.out.println("Logging out");
+        System.out.println("Good Bye");
 
 
 
