@@ -8,6 +8,11 @@ public class test1 {
     @Test
     public void login() {
         System.out.println("Logging In");
+
+
+
+
+        System.out.println("You are logged in!");
         System.out.println("You are logged in!");
     }
 
@@ -15,6 +20,10 @@ public class test1 {
     @Test
     public void logout() {
         System.out.println("Logging out");
+        System.out.println("Good Bye");
+
+
+
         System.out.println("Good Bye");
     }
 }
